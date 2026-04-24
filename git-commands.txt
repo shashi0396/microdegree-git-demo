@@ -4,3 +4,10 @@ git init or git clone
 git status
 git commit -m "status message"
 git push
+git pull - just you want those new changes to be reflected in ur local repos
+
+
+# assumptions
+local repo -drift , remote repo - drift 
+git pull
+merge conflicts - resolve - you cant able to push again
