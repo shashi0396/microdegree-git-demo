@@ -1,0 +1,6 @@
+# git commands to be used
+
+git init or git clone
+git status
+git commit -m "status message"
+git push
