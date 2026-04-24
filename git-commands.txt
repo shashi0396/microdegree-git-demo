@@ -5,6 +5,7 @@ git status
 git commit -m "status message"
 git push
 git pull - just you want those new changes to be reflected in ur local repos
+git branch
 
 
 # assumptions
